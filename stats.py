@@ -3,5 +3,8 @@ def mean(vals):
 	length = len(vals)
 	return float(total)/length
 
-print mean([3,4])
+def std(vals):
+	return 1.0
+
+#print mean([3,4])
 
